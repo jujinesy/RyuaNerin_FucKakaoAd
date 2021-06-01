@@ -27,7 +27,7 @@
     <ClCompile Include="hook.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="adblock.cpp">
+    <ClCompile Include="signal_wait.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
@@ -52,7 +52,7 @@
     <ClInclude Include="hook.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
-    <ClInclude Include="adblock.h">
+    <ClInclude Include="signal_wait.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
   </ItemGroup>
